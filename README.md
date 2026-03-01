@@ -28,7 +28,8 @@ The Placement Management System streamlines campus recruitment processes by cent
 
 ## 🎓 Students Module
 
-<img width="1876" height="942" alt="2" src="https://github.com/user-attachments/assets/acde2c3d-dc03-496d-95f7-159222caaeb0" />
+<img width="1826" height="919" alt="4" src="https://github.com/user-attachments/assets/e8797222-cee7-4c37-90dc-e98e6591be0a" />
+
 
 
 Manage:
@@ -56,7 +57,7 @@ Manage:
 
 ## 💼 Job Openings Module
 
-<img width="1826" height="919" alt="4" src="https://github.com/user-attachments/assets/e8797222-cee7-4c37-90dc-e98e6591be0a" />
+<img width="1876" height="942" alt="2" src="https://github.com/user-attachments/assets/acde2c3d-dc03-496d-95f7-159222caaeb0" />
 
 
 Track:
