@@ -43,7 +43,7 @@ Manage:
 
 ## 🏢 Companies Module
 
-<img width="1886" height="928" alt="3" src="https://github.com/user-attachments/assets/142283ac-0097-4a00-a29b-4fc5892e03b0" />
+<img width="1415" height="849" alt="5" src="https://github.com/user-attachments/assets/aa7eaca2-4e81-4567-bebe-7c594203028a" />
 
 
 Manage:
@@ -72,8 +72,8 @@ Track:
 
 ## 📅 Interviews Module
 
-<img width="1415" height="849" alt="5" src="https://github.com/user-attachments/assets/aa7eaca2-4e81-4567-bebe-7c594203028a" />
 
+<img width="1886" height="928" alt="3" src="https://github.com/user-attachments/assets/142283ac-0097-4a00-a29b-4fc5892e03b0" />
 
 Manage:
 - Interview scheduling
