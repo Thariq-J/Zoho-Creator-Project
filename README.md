@@ -57,7 +57,7 @@ Manage:
 
 ## 💼 Job Openings Module
 
-<img width="1876" height="942" alt="2" src="https://github.com/user-attachments/assets/acde2c3d-dc03-496d-95f7-159222caaeb0" />
+<img width="1398" height="892" alt="6" src="https://github.com/user-attachments/assets/87781724-3474-416c-87ca-8bd5f875d764" />
 
 
 Track:
@@ -85,7 +85,9 @@ Manage:
 
 ## 📄 Placements Module
 
-<img width="1398" height="892" alt="6" src="https://github.com/user-attachments/assets/87781724-3474-416c-87ca-8bd5f875d764" />
+
+<img width="1876" height="942" alt="2" src="https://github.com/user-attachments/assets/acde2c3d-dc03-496d-95f7-159222caaeb0" />
+
 
 
 Track:
